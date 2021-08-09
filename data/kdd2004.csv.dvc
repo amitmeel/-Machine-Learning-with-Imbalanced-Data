@@ -1,0 +1,4 @@
+outs:
+- md5: 53557d7803278ad0d52023ccef7a81d4
+  size: 60570716
+  path: kdd2004.csv
