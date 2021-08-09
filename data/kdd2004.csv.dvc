@@ -2,3 +2,10 @@ outs:
 - md5: 53557d7803278ad0d52023ccef7a81d4
   size: 60570716
   path: kdd2004.csv
+md5: 75d1aefd6e85b57ff7aa211af4059669
+frozen: true
+deps:
+- path: data/kdd2004.csv
+  repo:
+    url: https://github.com/amitmeel/Machine-Learning-with-Imbalanced-Data
+    rev_lock: 9bb549aaab5502a7dac32db9c10fa6ce698274eb
